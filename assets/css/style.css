@@ -1,0 +1,56 @@
+/* Universal Selectors */
+* {
+  padding: 0;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif !important;
+}
+
+/* Bootstrap Navbar */
+.navbar-brand {
+  padding-left: 110px !important;
+  margin-right: 5rem !important;
+}
+
+/* Bootstrap Carousel */
+/* @media screen and (max-width: 992px) {
+  .w-100 {
+    width: 100% !important;
+    height: 90vh !important;
+  }
+} */
+
+/* About-Us Section */
+.about-h2 {
+  margin-top: 20px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+.about-p {
+  text-align: justify;
+  font-size: 18px;
+  margin: 20px;
+}
+.about-img {
+  width: 100%;
+  height: 350px !important;
+  padding-left: 20px;
+  border-radius: 5%;
+  -webkit-border-radius: 5%;
+  -moz-border-radius: 5%;
+  -ms-border-radius: 5%;
+  -o-border-radius: 5%;
+}
+
+.about-a {
+  display: block;
+  align-items: center;
+  margin-left: 150px;
+  margin-right: 150px;
+}
