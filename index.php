@@ -19,7 +19,7 @@
   </head>
   <body>
     <!-- Bootstrap Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container-fluid">
         <a class="navbar-brand" href="./index.php">
           <img src="./assets/img/bootstrap-logo.svg" alt="brand-logo" width="40" height="34" class="d-inline-block align-text-top">
@@ -164,7 +164,7 @@
     </section>
 
     <!-- Contact Section -->
-    <section class="my-5" id="contact-section">
+    <section class="my-5 border" id="contact-section">
       <div>
         <h2 class="text-center" style="margin-bottom: 50px;">Contact Us</h2>
       </div>
@@ -201,7 +201,7 @@
     <!-- Footer Section -->
     <footer class="footer-section bg-dark" style="height: 100px;">
       <div class="copyright">
-        <p class="text-center" style="color: white; font-size: 16px; padding-top: 25px;">&copy; all copyright reserved at - <a href="https://www.facebook.com/SamiurRahmanMukul" target="_blank">Samiur Rahman Mukul</a></p>
+        <p class="text-center" style="color: white; font-size: 16px; padding-top: 25px;">&copy; All copyright reserved at - <a href="https://www.facebook.com/SamiurRahmanMukul" target="_blank">Samiur Rahman Mukul</a></p>
       </div>
     </footer>
 
