@@ -10,9 +10,13 @@
 
 Hello 👋, At this public ⛣ repository i will be make a `complete responsive dynamic website` using `HTML, CSS, Bootstrap, PHP &amp; MySQL`. So that hopefully enjoy 🤔 this project. Let's connect with me &amp; explore something new. Thanks
 
+|  #  | Projects                                                                            | Live Preview                                                       |
+| :-: | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 01  | [Technical Website](https://github.com/SamiurRahmanMukul/php-mysql-dynamic-website) | [👉 Click Here](http://product-crud.epizy.com/2-Technical-Website) |
+
 <!-- my social media links -->
 
-[facebook-url]: https://www.faceook.com/SamiurRahmanMukul
+[facebook-url]: https://www.facebook.com/SamiurRahmanMukul
 [instagram-url]: https://www.instagram.com/samiur_rahman_mukul
 [twitter-url]: https://www.twitter.com/SamiurRahMukul
 [linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
